@@ -1,4 +1,4 @@
-# Deteccion_de_genomas_anamalos_de_SARS-CoV-2_por_medio_de_algoritmos_de_aprendizaje_no_supervisados
+# Detección de genomas anómalos de SARS-CoV-2 por medio de algoritmos de aprendizaje no supervisados
 
 En los últimos años, la pandemia de COVID-19 ha ocasionado una multitud de desafíos a nivel global. Hasta la fecha se han realizado numerosas investigaciones con el objetivo de caracterizar y comprender con mayor detalle el virus SARS-CoV-2, todo con la finalidad de desarrollar nuevas estrategias para enfrentar posibles infecciones futuras. Este esfuerzo ha dado lugar a la creación de bases de datos que contienen cientos de miles de genomas secuenciados del virus.
 
