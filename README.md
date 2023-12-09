@@ -9,3 +9,7 @@ En particular, debido a la vasta cantidad de secuencias disponibles, identificar
 Este trabajo tiene como objetivo emplear diversos métodos computacionales con el fin de detectar los genomas más inusuales secuenciados en México desde el 1 de enero de 2020 hasta el 16 de junio de 2022.  Para ello, se emplean herramientas computacionales como el cálculo de distancias, el cálculo de la entropía, la reducción de dimensionalidad y diversos algoritmos de detección de anomalías.
 
 Con todo esto, lo que se pretende es proporcionar a los especialistas una herramienta adicional que les permita realizar análisis posteriores más detallados sobre el virus SARS-CoV-2.
+
+---
+
+Este repositorio contiene la colección de Jupyter Notebooks generados para implementar la metodología descrita en el documento de Tesis ["Detección de genomas anómalos de sars-cov-2 por medio de algoritmos de aprendizaje no supervisados"](https://hdl.handle.net/20.500.14330/TES01000850003).
